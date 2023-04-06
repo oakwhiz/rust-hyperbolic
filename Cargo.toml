@@ -1,0 +1,13 @@
+[package]
+name = "rust-hyperbolic"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+assert_approx_eq = "1.1.0"
+nalgebra = "0.32.2"
+noise = "0.8.2"
+num-complex = "0.4.3"
+rand = "0.8.5"
